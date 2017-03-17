@@ -13,6 +13,7 @@ function setup() {
   canvas.id('sketch-container'); 
   colors.push(color(255, 200, 0, 6));
   colors.push(color(237, 70, 47, 1));
+  colors.push(color(0, 200, 0, alph));
   //colors.push(color(123, 123, 98, alph));
   // colors.push(color(64, 64, 64, alph));  
   smallPoint = 20;
