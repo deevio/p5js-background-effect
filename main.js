@@ -15,7 +15,7 @@ function setup() {
   colors.push(color(237, 70, 47, 1));
   //colors.push(color(0, 200, 0, alph));
 
-  smallPoint = 20;
+  smallPoint = 30;
   largePoint = 60;
   imageMode(CENTER);
   noStroke();
